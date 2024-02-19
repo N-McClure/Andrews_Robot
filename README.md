@@ -25,7 +25,7 @@ All of the designs, schematics, circuits, and code that Andrew (A gifted grade 4
 
 ![Plan_Diagram](https://github.com/N-McClure/Andrews_Robot/assets/64433966/cf278dd5-e17c-418a-ad91-67e23b7ab33f)
 
-<h3>Image of mdification to design after realizing 2 motors provides more stability: </h3>
+<h3>Image of modification to design after realizing 2 motors provides more stability: </h3>
 
 ![Mk_2](https://github.com/N-McClure/Andrews_Robot/assets/64433966/987c9479-fc7e-4290-8b6d-b6442cf7a20c)
 
