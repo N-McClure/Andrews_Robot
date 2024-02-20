@@ -1,6 +1,11 @@
 # Andrews_Robot
 All of the designs, schematics, circuits, and code that Andrew (A gifted grade 4) developed for his robot during my volunteering / mentoring time with him.
 
+<h3>Andrew the little genius: </h3>
+
+![image](https://github.com/N-McClure/Andrews_Robot/assets/64433966/4321145c-a8dc-4e77-91a9-8ab15910f6cd)
+
+
 <h3>Hardware & Modules used: </h3>
 <ul>
   <li>Arduino Uno</li>
